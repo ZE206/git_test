@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Web</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <ul>
+           <li>Milk</li>
+           <li>
+            Cheese
+            <ol>
+                <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul" target="_blank">Blue cheese</a></li>
+                <li>Red cheese</li>
+                <li>Yellow cheese</li>
+            </ol>
+           </li> 
+        </ul>
+    </body>
+</html>
